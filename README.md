@@ -1,1 +1,0 @@
-# qe-present.github.io
