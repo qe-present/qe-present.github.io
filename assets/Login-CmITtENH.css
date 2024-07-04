@@ -9,7 +9,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url(../../qe-present.github.io/assets/3-CPBN083G.jpg) no-repeat center center;
+    background: url(3-CPBN083G.jpg) no-repeat center center;
     background-size: cover;
     color: var(--secondary-color)
 }
